@@ -1,33 +1,28 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
+        if(nums.length==0 || nums==null){
+            return result;
+        }
+        Map<Integer,Integer> map= new HashMap<>();
         Arrays.sort(nums);
-
-        for (int i = 0; i < nums.length; i++) {
-            if (i > 0 && nums[i] == nums[i-1]) {
-                continue;
-            }
-            
-            int j = i + 1;
-            int k = nums.length - 1;
-
-            while (j < k) {
-                int total = nums[i] + nums[j] + nums[k];
-
-                if (total > 0) {
-                    k--;
-                } else if (total < 0) {
-                    j++;
-                } else {
-                    res.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    j++;
-
-                    while (nums[j] == nums[j-1] && j < k) {
-                        j++;
+        for(int i=0;i<nums.length;i++){
+            map.put(nums[i],i);
+        }
+        Set<String> used=new HashSet<>();
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                int currsum = nums[i]+nums[j];
+                if (map.containsKey(-1*currsum)){
+                    int k=map.get(-1*currsum);
+                    if(!used.contains(nums[i]+":"+ nums[j]+":"+nums[k]) && k>i && k>j){
+                        result.add(Arrays.asList(nums[i],nums[j],nums[k]));
+                        used.add(nums[i]+":"+ nums[j]+":"+nums[k]);
                     }
                 }
             }
         }
-        return res;        
+        return result;
+
     }
 }
