@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 ## String
 |  |
