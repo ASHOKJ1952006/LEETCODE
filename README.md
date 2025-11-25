@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0344-reverse-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
