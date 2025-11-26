@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0344-reverse-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0203-remove-linked-list-elements) |
