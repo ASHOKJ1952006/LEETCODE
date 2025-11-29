@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
