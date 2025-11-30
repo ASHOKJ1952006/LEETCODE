@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0344-reverse-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
