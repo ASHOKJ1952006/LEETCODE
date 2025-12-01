@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1313-decompress-run-length-encoded-list) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
