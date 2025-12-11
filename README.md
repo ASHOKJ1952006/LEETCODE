@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1791-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
+| [1720-decode-xored-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1720-decode-xored-array) |
 ## Greedy
 |  |
 | ------- |
