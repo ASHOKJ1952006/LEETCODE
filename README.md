@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1678-goal-parser-interpretation](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
