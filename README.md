@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
