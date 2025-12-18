@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
