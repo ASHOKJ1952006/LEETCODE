@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3531-count-covered-buildings) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
 ## String
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Database
 |  |
 | ------- |
