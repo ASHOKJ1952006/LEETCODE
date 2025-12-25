@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0055-jump-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0055-jump-game) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
