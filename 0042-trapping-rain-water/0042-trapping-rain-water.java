@@ -8,9 +8,10 @@ class Solution {
         while(l<r){
             lmax=Math.max(lmax,h[l]);
             rmax=Math.max(rmax,h[r]);
-            ans+=(lmax<rmax) ? lmax-h[l++] : rmax-h[r--];
+            ans+= (lmax<rmax) ? lmax-h[l++] : rmax-h[r--];
         }
         return ans;
+
         
     }
 }
