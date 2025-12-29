@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0228-summary-ranges) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0135-candy) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Database
