@@ -8,7 +8,7 @@ class Solution {
 
             if(i==curr) {
                 jump++;
-                curr=nums[i];
+                curr=maxreach;
             }
         }
         return jump;
