@@ -4,14 +4,13 @@ class Solution {
         int r=h.length-1;
         int lmax=Integer.MIN_VALUE;
         int rmax=Integer.MIN_VALUE;
-        int ans=0;
+        int ans=Integer.MIN_VALUE;
         while(l<r){
             lmax=Math.max(lmax,h[l]);
             rmax=Math.max(rmax,h[r]);
-            ans+= (lmax<rmax) ? lmax-h[l++] : rmax-h[r--];
+            ans+=(lmax<rmax) ? lmax-h[l++] : rmax-h[r--];
         }
         return ans;
-
         
     }
 }
