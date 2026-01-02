@@ -3,13 +3,15 @@ class Solution {
         int jump=0;
         int maxreach=0;
         int curr=0;
-        for(int i=0;i<nums.length-1;i++){
+        for(int i=0;i<nums.length;i++){
             maxreach=Math.max(maxreach,i+nums[i]);
-            if(i==curr){
+
+            if(i==curr) {
                 jump++;
-                curr=maxreach;
+                curr=nums[i];
             }
         }
         return jump;
+        
     }
 }
