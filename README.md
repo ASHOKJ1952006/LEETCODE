@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [3668-restore-finishing-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3531-count-covered-buildings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [3668-restore-finishing-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
