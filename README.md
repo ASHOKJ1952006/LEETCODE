@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1844-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
