@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Database
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 ## Tree
