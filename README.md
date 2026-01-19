@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1572-matrix-diagonal-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
