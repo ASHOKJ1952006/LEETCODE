@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
+| [2485-find-the-pivot-integer](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
