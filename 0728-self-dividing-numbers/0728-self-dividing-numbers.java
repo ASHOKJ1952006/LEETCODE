@@ -1,22 +1,20 @@
 class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
-        List<Integer> arr = new ArrayList<>();
+        ArrayList<Integer> arr = new ArrayList<>();
 
         for (int i = left; i <= right; i++) {
-            int num = i;
-            boolean isSelfDividing = true;
+            String s = Integer.toString(i);
+            int count = 0;   // reset for each number
 
-            while (num > 0) {
-                int digit = num % 10;
+            for (int j = 0; j < s.length(); j++) {   // fix loop variable
+                int n = s.charAt(j) - '0';           // correct char → int
 
-                if (digit == 0 || i % digit != 0) {
-                    isSelfDividing = false;
-                    break;
+                if (n != 0 && i % n == 0) {
+                    count++;
                 }
-                num /= 10;
             }
 
-            if (isSelfDividing) {
+            if (count == s.length()) {
                 arr.add(i);
             }
         }
