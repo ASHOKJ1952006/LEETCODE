@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0283-move-zeroes) |
 | [0354-russian-doll-envelopes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0354-russian-doll-envelopes) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
