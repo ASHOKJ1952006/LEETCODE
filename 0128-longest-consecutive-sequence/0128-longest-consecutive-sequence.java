@@ -17,7 +17,7 @@ class Solution {
                 copy=0;
             }
             
-            res=Math.max(res,count+copy);
+            res=Math.max(res,count);
             
         }
         return res;
