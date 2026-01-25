@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
