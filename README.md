@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0066-plus-one) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0290-word-pattern) |
