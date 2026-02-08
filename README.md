@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1844-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0509-fibonacci-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
