@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1148-article-views-i) |
