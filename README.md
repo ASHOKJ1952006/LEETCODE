@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0525-contiguous-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
