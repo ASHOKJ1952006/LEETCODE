@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0728-self-dividing-numbers) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
