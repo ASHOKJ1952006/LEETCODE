@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -495,4 +496,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
+| [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
