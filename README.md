@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1390-four-divisors) |
+| [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
+| [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
