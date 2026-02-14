@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0742-to-lower-case) |
 | [0763-partition-labels](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
