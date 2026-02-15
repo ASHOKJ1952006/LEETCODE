@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
 |  |
