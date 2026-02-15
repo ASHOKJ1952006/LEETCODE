@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0290-word-pattern) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0263-ugly-number) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1720-decode-xored-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1720-decode-xored-array) |
