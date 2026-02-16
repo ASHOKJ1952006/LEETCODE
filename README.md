@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
@@ -517,17 +519,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
 ## Trie
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Rolling Hash
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 <!---LeetCode Topics End-->
