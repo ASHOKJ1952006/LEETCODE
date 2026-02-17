@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2105-watering-plants-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
