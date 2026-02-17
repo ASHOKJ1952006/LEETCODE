@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3407-substring-matching-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3407-substring-matching-pattern) |
