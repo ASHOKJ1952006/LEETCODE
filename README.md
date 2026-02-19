@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0316-remove-duplicate-letters) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
@@ -551,12 +553,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
