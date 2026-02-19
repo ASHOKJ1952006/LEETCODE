@@ -1,21 +1,39 @@
+import java.util.*;
 
-/// approach 2 TC(0ms)
 class Solution {
+    
     public List<Boolean> camelMatch(String[] queries, String pattern) {
-        List<Boolean> res = new ArrayList<>();
-        for (String q : queries) res.add(matches(q, pattern));
-        return res;
-    }
-    private boolean matches(String query, String pattern) {
-        int j = 0;
-        for (int i = 0; i < query.length(); i++) {
-            char qc = query.charAt(i);
-            if (j < pattern.length() && qc == pattern.charAt(j)) {
-                j++;
-            } else if (Character.isUpperCase(qc)) {
-                return false;
+        
+        List<Boolean> result = new ArrayList<>();
+        
+        for (String query : queries) {
+            
+            int j = 0;
+            boolean match = true;
+            
+            for (int i = 0; i < query.length(); i++) {
+                
+                char ch = query.charAt(i);
+                
+                // If character matches pattern
+                if (j < pattern.length() && ch == pattern.charAt(j)) {
+                    j++;
+                }
+                // If uppercase letter doesn't match → invalid
+                else if (Character.isUpperCase(ch)) {
+                    match = false;
+                    break;
+                }
             }
+            
+            // Pattern must be fully matched
+            if (j != pattern.length()) {
+                match = false;
+            }
+            
+            result.add(match);
         }
-        return j == pattern.length();
+        
+        return result;
     }
 }
