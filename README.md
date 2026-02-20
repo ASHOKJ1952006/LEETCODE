@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0043-multiply-strings) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0316-remove-duplicate-letters) |
