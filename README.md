@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [0763-partition-labels](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0942-di-string-match) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
