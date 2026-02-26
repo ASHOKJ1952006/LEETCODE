@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1720-decode-xored-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1720-decode-xored-array) |
 ## Greedy
