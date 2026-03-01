@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
