@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
@@ -606,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
