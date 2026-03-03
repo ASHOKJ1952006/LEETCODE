@@ -1,35 +1,28 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-    int n = nums.length;
-    if (n == 0 || k == 0) return new int[0];
+        int n=nums.length;
+        if(n==0 || k==0) return new int[0];
+        int[] left=new int[n];
+        int[] right=new int[n];
+        int[] res=new int[n-k+1];
 
-    int[] left = new int[n];
-    int[] right = new int[n];
-    int[] result = new int[n - k + 1];
-
-    // Fill left array
-    for (int i = 0; i < n; i++) {
-        if (i % k == 0) {
-            left[i] = nums[i];  // start of block
-        } else {
-            left[i] = Math.max(left[i - 1], nums[i]);
+        for(int i=0;i<n;i++){
+            if(i%k==0){
+                left[i]=nums[i];
+            }else{
+                left[i]=Math.max(left[i-1],nums[i]);
+            }
         }
-    }
-
-    // Fill right array
-    for (int i = n - 1; i >= 0; i--) {
-        if (i == n - 1 || (i + 1) % k == 0) {
-            right[i] = nums[i]; // end of block
-        } else {
-            right[i] = Math.max(right[i + 1], nums[i]);
+        for(int i=n-1;i>=0;i--){
+            if(i==n-1||(i+1)%k==0){
+                right[i]=nums[i];
+            }else{
+                right[i]=Math.max(right[i+1],nums[i]);
+            }
         }
+        for(int i=0;i<n-k+1;i++){
+            res[i]=Math.max(right[i],left[i+k-1]);
+        }
+        return res;
     }
-
-    // Build result
-    for (int i = 0; i < n - k + 1; i++) {
-        result[i] = Math.max(right[i], left[i + k - 1]);
-    }
-
-    return result;
-}
 }
