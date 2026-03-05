@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0228-summary-ranges) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String Matching
 |  |
@@ -616,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
