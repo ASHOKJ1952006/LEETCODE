@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3531-count-covered-buildings) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2485-find-the-pivot-integer) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1720-decode-xored-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1720-decode-xored-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Memoization
 |  |
 | ------- |
