@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -644,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1980-find-unique-binary-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
