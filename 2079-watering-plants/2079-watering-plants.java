@@ -1,13 +1,14 @@
 class Solution {
-   public int wateringPlants(int[] p, int capacity) {
-    int res = 0, can = capacity;
-    for (int i = 0; i < p.length; i++) {
-        if (can < p[i]) {
-            res += i * 2;
-            can = capacity;
+    public int wateringPlants(int[] plants, int capacity) {
+        int res=0;
+        int can=capacity;
+        for(int i=0;i<plants.length;i++){
+            if(can<plants[i]){
+                res+=i*2;
+                can=capacity;
+            }
+            can-=plants[i];
         }
-        can -= p[i];
+        return res+plants.length;
     }
-    return res + p.length;        
-}
 }
