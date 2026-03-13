@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2485-find-the-pivot-integer) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1720-decode-xored-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1720-decode-xored-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0509-fibonacci-number) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Stack
 |  |
 | ------- |
