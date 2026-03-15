@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0881-boats-to-save-people](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -552,11 +555,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
 ## Union Find
 |  |
 | ------- |
@@ -568,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -657,4 +663,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0997-find-the-town-judge) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
