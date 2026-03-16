@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1205-defanging-an-ip-address) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
