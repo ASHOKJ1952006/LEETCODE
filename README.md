@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Heap (Priority Queue)
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
 | ------- |
