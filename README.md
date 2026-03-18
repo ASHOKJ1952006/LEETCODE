@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0509-fibonacci-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1668-maximum-repeating-substring) |
 ## Prefix Sum
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Heap (Priority Queue)
 |  |
