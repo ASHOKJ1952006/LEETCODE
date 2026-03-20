@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0066-plus-one) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0844-backspace-string-compare) |
