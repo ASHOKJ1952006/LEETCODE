@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0242-valid-anagram) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0101-symmetric-tree) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0079-word-search) |
 | [1980-find-unique-binary-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1980-find-unique-binary-string) |
 ## Graph Theory
 |  |
