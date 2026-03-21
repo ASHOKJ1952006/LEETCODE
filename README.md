@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0032-longest-valid-parentheses) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0066-plus-one) |
