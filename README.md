@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3668-restore-finishing-order) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
