@@ -9,7 +9,6 @@ class Solution {
             if (height[i] < height[j]) i++;
             else j--;
         }
-
         return res;
     }
 }
