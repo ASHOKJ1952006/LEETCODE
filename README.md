@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3819-rotate-non-negative-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2105-watering-plants-ii) |
+| [3819-rotate-non-negative-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 ## Math
 |  |
 | ------- |
