@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
