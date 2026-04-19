@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/2105-watering-plants-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Bit Manipulation
 |  |
