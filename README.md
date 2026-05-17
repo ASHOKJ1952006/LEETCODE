@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1306-jump-game-iii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1306-jump-game-iii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/1306-jump-game-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
