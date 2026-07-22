@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0763-partition-labels](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0804-unique-morse-code-words) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0742-to-lower-case) |
 | [0763-partition-labels](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/ASHOKJ1952006/LEETCODE/tree/master/0782-jewels-and-stones) |
